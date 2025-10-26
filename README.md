@@ -8,14 +8,15 @@ I specialize in data science and data analytics, familiar with Python (Pandas, N
 
 
 ## My work 🏋🏋🏋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PeterDingVN&show_icons=True&theme=neon)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PeterDingVN&show_icons=true&theme=neon)
  
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PeterDingVN&repo=ML-Finance-VietnameseListedFirms&theme=algolia&description_lines_count=3)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PeterDingVN&repo=Highlands-Coffee-churn-prediction&theme=holi&description_lines_count=3)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PeterDingVN&repo=Time-series-Sales-forecast&theme=catppuccin_mocha&description_lines_count=3)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PeterDingVN&repo=Auto-Vnese-Phrases-Detecter&theme=calm&description_lines_count=3)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PeterDingVN&repo=ML-Finance-VietnameseListedFirms&theme=algolia&description_lines_count==3)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PeterDingVN&repo=Highlands-Coffee-churn-prediction&theme=holi&description_lines_count==3)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PeterDingVN&repo=Time-series-Sales-forecast&theme=catppuccin_mocha&description_lines_count==3)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PeterDingVN&repo=Auto-Vnese-Phrases-Detecter&theme=calm&description_lines_count==3)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 
