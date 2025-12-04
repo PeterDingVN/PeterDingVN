@@ -26,13 +26,13 @@ I specialize in data science and ML engineering, building predictive models and 
 </p>
 
 ## My work 🏋🏋🏋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PeterDingVN&show_icons=true&theme=neon)
+![Anurag's GitHub stats](https://github-readme-stats.anuraghazra1.vercel.app/api/?username=PeterDingVN&show_icons=true&theme=cobalt&description_lines_count=3)
  
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PeterDingVN&repo=ML-Finance-VietnameseListedFirms&theme=midnight-purple&description_lines_count=3)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PeterDingVN&repo=Highlands-Coffee-churn-prediction&theme=holi&description_lines_count=3)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PeterDingVN&repo=Time-series-Sales-forecast&theme=catppuccin_mocha&description_lines_count=3)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PeterDingVN&repo=Auto-Vnese-Phrases-Detecter&theme=calm&description_lines_count=3)
+![Readme Card](https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=PeterDingVN&repo=ML-Finance-VietnameseListedFirms&theme=nord&description_lines_count=3)
+![Readme Card](https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=PeterDingVN&repo=Highlands-Coffee-churn-prediction&theme=tokyonight&description_lines_count=3)
+![Readme Card](https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=PeterDingVN&repo=Time-series-Sales-forecast&theme=radical&description_lines_count=3)
+![Readme Card](https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=PeterDingVN&repo=Auto-Vnese-Phrases-Detecter&theme=monokai&description_lines_count=3)
 
 
 
