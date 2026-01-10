@@ -29,10 +29,28 @@ I specialize in data science and ML engineering, building predictive models and 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=PeterDingVN&show_icons=true&theme=cobalt&description_lines_count=3)
  
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PeterDingVN&repo=ML-Finance-VietnameseListedFirms&theme=nord&description_lines_count=3)](https://github.com/PeterDingVN/ML_Financial_Panel_Predictive_Model)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PeterDingVN&repo=Highlands-Coffee-churn-prediction&theme=tokyonight&description_lines_count=3)](https://github.com/PeterDingVN/Highlands-Coffee-churn-prediction)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PeterDingVN&repo=Time-series-Sales-forecast&theme=radical&description_lines_count=3)](https://github.com/PeterDingVN/Time-series-Sales-forecast)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PeterDingVN&repo=Auto-Vnese-Phrases-Detecter&theme=monokai&description_lines_count=3)](https://github.com/PeterDingVN/Auto-Vnese-Phrases-Detecter)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PeterDingVN&repo=&description_lines_count=3)]()
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PeterDingVN&&description_lines_count=3)]()
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PeterDingVN&)]()
+
+<a href="https://github.com/PeterDingVN/ML_Financial_Panel_Predictive_Model">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=PeterDingVN&repo=ML-Finance-VietnameseListedFirms&theme=cobalt" />
+</a>
+<a href="https://github.com/PeterDingVN/Highlands-Coffee-churn-prediction">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=PeterDingVN&repo=Highlands-Coffee-churn-prediction&theme=tokyonight" />
+</a>  
+
+<a href="https://github.com/PeterDingVN/Time-series-Sales-forecast">
+  <img 
+   align="center" 
+   src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=PeterDingVN&repo=Time-series-Sales-forecast&theme=radical" />
+</a>
+<a href="https://github.com/PeterDingVN/Auto-Vnese-Phrases-Detecter">
+  <img 
+   align="center"
+   src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=PeterDingVN&repo=Auto-Vnese-Phrases-Detecter&theme=monokai" />
+</a>  
 
 
 
