@@ -26,7 +26,7 @@ I specialize in data science and ML engineering, building predictive models and 
 </p>
 
 ## My work 🏋🏋🏋
-![Anurag's GitHub stats](https://github-readme-stats.anuraghazra1.vercel.app/api/?username=PeterDingVN&show_icons=true&theme=cobalt&description_lines_count=3)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=PeterDingVN&show_icons=true&theme=cobalt&description_lines_count=3)
 
 
 <a href="https://github.com/PeterDingVN/ML_Financial_Panel_Predictive_Model">
@@ -44,7 +44,7 @@ I specialize in data science and ML engineering, building predictive models and 
 <a href="https://github.com/PeterDingVN/Auto-Vnese-Phrases-Detecter">
   <img 
    align="center"
-   src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=PeterDingVN&repo=Auto-Vnese-Phrases-Detecter&theme=monokai" />
+   src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin?username=PeterDingVN&repo=Auto-Vnese-Phrases-Detecter&theme=monokai" />
 </a>  
 
 
