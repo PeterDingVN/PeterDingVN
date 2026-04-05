@@ -1,8 +1,10 @@
 # Hi, I'm Peter Ding 👋👋👋
 
-1 year experience in Data Science and ML Engineering. 
+1 year experience in Data Science and ML Engineering.
+
 Combine technical skills: Python, Docker, Github, with Business background to create optimal predictive models and root cause analysis.
-Interested in Finance and Tech field, I am currently applying tech methods to solve stock problems.
+
+Interested in Tech and Fintech, I am currently applying tech methods to solve stock problems.
 
 ## Contact me via 📬📬📬
 
