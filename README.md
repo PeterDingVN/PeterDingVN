@@ -8,7 +8,7 @@ Interested in Tech and Fintech, I am currently applying tech methods to solve st
 
 ## Contact me via 📬📬📬
 
-<img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/be719042-f06b-4003-bcfa-067a07ac0fff" /> [Linkedin]([https://www.linkedin.com/in/peter-ding-855b1a281/](https://www.linkedin.com/in/%C4%91inh-thanh-th%E1%BA%BF-peter-ding-855b1a281/)) <img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/29fd8846-2288-4cff-9494-3f57091f2414" /> <img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/3cdd5879-b15a-450d-ab6a-cf40de3853f6" /> <img width="16" height="16" alt="image" src="https://github.com/user-attachments/assets/8059308b-dcb2-43c1-b5e9-8700e39929bb" /> dingthanhthe@gmail.com
+<img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/be719042-f06b-4003-bcfa-067a07ac0fff" /> [Linkedin](https://www.linkedin.com/in/%C4%91inh-thanh-th%E1%BA%BF-peter-ding-855b1a281/) <img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/29fd8846-2288-4cff-9494-3f57091f2414" /> <img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/3cdd5879-b15a-450d-ab6a-cf40de3853f6" /> <img width="16" height="16" alt="image" src="https://github.com/user-attachments/assets/8059308b-dcb2-43c1-b5e9-8700e39929bb" /> dingthanhthe@gmail.com
 
 ## Tech-stack 🤖🤖🤖
 <p align="center">
