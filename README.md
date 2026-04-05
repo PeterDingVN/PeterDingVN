@@ -45,16 +45,6 @@ I specialize in data science and ML engineering, building predictive models and 
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=PeterDingVN&repo=Highlands-Coffee-churn-prediction&theme=tokyonight" />
 </a>  
 
-<a href="https://github.com/PeterDingVN/Time-series-Sales-forecast">
-  <img 
-   align="center" 
-   src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=PeterDingVN&repo=Time-series-Sales-forecast&theme=radical" />
-</a>
-<a href="https://github.com/PeterDingVN/Auto-Vnese-Phrases-Detecter">
-  <img 
-   align="center"
-   src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin?username=PeterDingVN&repo=Auto-Vnese-Phrases-Detecter&theme=solarized-dark" />
-</a> 
 
 
 
