@@ -1,6 +1,8 @@
 # Hi, I'm Peter Ding 👋👋👋
 
-I specialize in data science and ML engineering, building predictive models and doing root cause analysis to discover major contributing features. Familiar with Python (Pandas, Numpy, Scikit-learn, Keras, ...) , basic Docker, Github, Statistics, and Business Administration, I'm eager to help individuals and organizations alike better predict the path of their investment, business performance and so on.
+1 year experience in Data Science and ML Engineering. 
+Combine technical skills: Python, Docker, Github, with Business background to create optimal predictive models and root cause analysis.
+Interested in Finance and Tech field, I am currently applying tech methods to solve stock problems.
 
 ## Contact me via 📬📬📬
 
