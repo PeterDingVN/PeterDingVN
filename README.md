@@ -8,7 +8,7 @@
 
 ## Contact me via 📬📬📬
 
-<img width="16" height="16" alt="image" src="linkedin.png" /> [Linkedin](https://www.linkedin.com/in/%C4%91inh-thanh-th%E1%BA%BF-peter-ding-855b1a281/) &nbsp;&nbsp;&nbsp; <img width="16" height="16" alt="image" src="gmail.png" /> dingthanhthe@gmail.com
+<img width="16" height="16" alt="image" src="linkedin.png" /> [Linkedin](https://www.linkedin.com/in/%C4%91inh-thanh-th%E1%BA%BF-peter-ding-855b1a281/) &nbsp;&nbsp;&nbsp; <img width="14" height="14" alt="image" src="gmail.png" /> dingthanhthe@gmail.com
 
 ## Tech-stack 🤖🤖🤖
 <p align="center">
