@@ -37,12 +37,11 @@
 ## My work 🏋🏋🏋
 
 
-
-<a href="https://github.com/PeterDingVN/ML_Financial_Panel_Predictive_Model">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=PeterDingVN&repo=ML-Finance-VietnameseListedFirms&theme=gruvbox" />
-</a>
 <a href="https://github.com/PeterDingVN/VNMiniQuant">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=PeterDingVN&repo=VNMiniQuant&theme=synthwave" />
+</a>
+<a href="https://github.com/PeterDingVN/ML_Financial_Panel_Predictive_Model">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=PeterDingVN&repo=ML-Finance-VietnameseListedFirms&theme=gruvbox" />
 </a>
 
 <a href="https://github.com/PeterDingVN/vneconomy_articles_scraper">
