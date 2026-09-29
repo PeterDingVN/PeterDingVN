@@ -40,7 +40,7 @@
 </a>
 
 <a href="https://github.com/PeterDingVN/ML_Financial_Panel_Predictive_Model">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin?username=PeterDingVN&repo=ML-Finance-VietnameseListedFirms&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin?username=PeterDingVN&repo=ML-Finance-VietnameseListedFirms&theme=gruvbox&v=7" />
 </a>
 
 
