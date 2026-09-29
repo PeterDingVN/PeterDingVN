@@ -1,10 +1,9 @@
 # Hi, I'm Peter Ding 👋👋👋
 
-- 1 year experience in Data Science and ML Engineering.
-
-- Combine technical skills: Python, Docker, Github, with Business background to create optimal predictive models and root cause analysis.
-
-- Interested in Tech and Fintech, I am currently applying tech methods to solve stock problems.
+1 Year with data project and 5 months as Quant Researcher Intern offered me interesting things:
+- Building alpha Sharpe 2-ish for vietnam future market
+- An end-to-end system from research to deployment
+- And many new awesome friends!
 
 ## Contact me via 📬📬📬
 
