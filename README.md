@@ -43,16 +43,6 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=PeterDingVN&repo=ML-Finance-VietnameseListedFirms&theme=gruvbox" />
 </a>
 
-<a href="https://github.com/PeterDingVN/vneconomy_articles_scraper">
-  <img 
-   align="center"
-   src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin?username=PeterDingVN&repo=vneconomy_articles_scraper&theme=shades-of-purple" />
-</a> 
-<a href="https://github.com/PeterDingVN/Highlands-Coffee-churn-prediction">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=PeterDingVN&repo=Highlands-Coffee-churn-prediction&theme=tokyonight" />
-</a>  
-
-
 
 
 
