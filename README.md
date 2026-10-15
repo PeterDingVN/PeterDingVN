@@ -1,7 +1,7 @@
 # Hi, I'm Peter Ding 👋👋👋
 
 1 Year with data project and 5 months as Quant Researcher Intern offered me interesting things:
-- Building alpha Sharpe 2-ish for vietnam future market
+- Building alpha Sharpe 2.0 to 2.3 for vietnam future market
 - An end-to-end system from research to deployment
 - And many new awesome friends!
 
